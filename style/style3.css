@@ -1,0 +1,38 @@
+   .card {
+       Margin: 0px auto;
+       width: 80%;
+       background-color: #cccccc;
+       background-repeat: no-repeat;
+       background-position: center center;
+   }
+   
+   .menu {
+       width: 100%;
+       background-color: rgb(112, 215, 233);
+       display: flex;
+       align-items: center;
+       justify-content: center;
+   }
+   
+   .altmenu1 {
+       width: 35%;
+       height: 100px;
+       float: left;
+       text-align: center;
+   }
+   
+   .altmenu2 {
+       width: 30%;
+       height: 100px;
+       float: left;
+       text-align: center;
+       border-left: 2px solid white;
+       border-right: 2px solid white;
+   }
+   
+   .altmenu3 {
+       width: 35%;
+       height: 100px;
+       float: left;
+       text-align: center;
+   }
